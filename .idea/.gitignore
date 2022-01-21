@@ -6,3 +6,12 @@
 *.ipr
 *.iml
 *.iws
+
+
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
