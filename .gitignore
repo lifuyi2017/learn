@@ -1,0 +1,17 @@
+# Default ignored files
+/workspace.xml
+
+
+.idea/
+*.ipr
+*.iml
+*.iws
+
+
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
